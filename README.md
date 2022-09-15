@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Elvira-del/Elvira-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  
+  <h1>
+    Hi there 👋
+    <img src="https://komarev.com/ghpvc/?username=elvira-del&style=flat-square&color=blue" alt=""/>
+  </h1>
+</div>
+
+
