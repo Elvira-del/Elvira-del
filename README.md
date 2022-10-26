@@ -29,7 +29,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 <div id="stats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvira-del)](https://github.com/Elvira-del/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvira-del)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
