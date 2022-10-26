@@ -28,5 +28,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
+<div id="stats">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvira-del)](https://github.com/Elvira-del/github-readme-stats)
+</div>
+
 
 
