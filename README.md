@@ -28,8 +28,10 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
+### :fire: My Stats :
+
 <div id="stats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvira-del)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvira-del&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 
