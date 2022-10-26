@@ -34,7 +34,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvira-del&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvira-del&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elvira-del&repo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Elvira-del&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=Elvira-del&count_private=true&show_icons=true&theme=buefy)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Elvira-del&repo=convoychat" />
