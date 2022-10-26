@@ -30,9 +30,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 
-<div id="stats">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvira-del&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvira-del&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
