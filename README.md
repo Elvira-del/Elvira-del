@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
   
   <h1>
-    Hi there 👋  
+<!--     Hi there 👋   -->
+  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Raising%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Woman Raising Hand Medium-Light Skin Tone" width="30" height="30" />
   </h1>
 </div>
 
