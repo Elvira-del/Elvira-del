@@ -8,7 +8,7 @@
 </div>
 
 <!-- ### :woman_technologist: About Me : -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="30" height="30" /> About Me :
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Medium-Light%20Skin%20Tone%2C%20Blond%20Hair.png" alt="Woman Medium-Light Skin Tone, Blond Hair" width="30" height="30" /> About Me :
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
