@@ -32,7 +32,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 <!-- ### :fire: My Stats : -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> My Stats :
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> My Stats : -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> My Stats :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elvira-del&theme=buefy&background=ffffff&border=5c3b9d)](https://git.io/streak-stats)
