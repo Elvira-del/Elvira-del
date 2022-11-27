@@ -6,7 +6,8 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me :
+<!-- ### :woman_technologist: About Me : -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" />
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
