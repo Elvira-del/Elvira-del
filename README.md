@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Medium-Light%20Skin%20Tone%2C%20Blond%20Hair.png" alt="Woman Medium-Light Skin Tone, Blond Hair" width="30" height="30" /> About Me
 </h3> 
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+My name is Elvira. I'm a pseudo-introvert, a cat mom, and a Front-end developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
