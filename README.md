@@ -12,7 +12,7 @@
   </h3> 
 
 <p>
-  My name is Elvira. I'm a pseudo-introvert, a cat mom, and a Front-end developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  My name is Elvira. I'm a pseudo-introvert, a cat mom, and a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 </p>
 </div>
 
