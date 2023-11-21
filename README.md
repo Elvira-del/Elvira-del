@@ -6,6 +6,15 @@
   </h1>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/elvira-krutova-43a01428a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://t.me/krasnoe_soInce">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
 <div>
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Medium-Light%20Skin%20Tone%2C%20Blond%20Hair.png" alt="Woman Medium-Light Skin Tone, Blond Hair" width="30" height="30" /> About Me
@@ -49,18 +58,7 @@
   </p>
 </div>
 
-<div>
-  <h3>    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="30" height="30" /> Contact me
-  </h3>
 
-  <a href="https://www.linkedin.com/in/elvira-krutova-43a01428a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="https://t.me/krasnoe_soInce">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
 
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> -->
